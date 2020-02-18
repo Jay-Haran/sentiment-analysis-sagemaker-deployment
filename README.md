@@ -13,7 +13,7 @@ Please see the [original README](https://github.com/udacity/sagemaker-deployment
 
 ```
 cd SageMaker
-git clone https://github.com/hjlopes/sagemaker-sentiment-analysis
+git clone https://github.com/Jay-Haran/sagemaker-sentiment-analysis
 exit
 ```
 
